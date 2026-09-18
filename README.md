@@ -206,4 +206,4 @@ Cerberus FTP Server is the full free version, providing all features and updates
 Unlock the full potential of your file transfers with Cerberus FTP Server. **Download now and get started!**
 
 ---
-**Last updated:** 2026-09-17 23:55:10 UTC
+**Last updated:** 2026-09-18 03:18:05 UTC
